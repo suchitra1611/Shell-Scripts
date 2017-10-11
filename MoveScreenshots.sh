@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mv /Users/suchitra.yerramalla/Desktop/Screen* /Users/suchitra.yerramalla/Desktop/Captures
+mv /Users/$HOME/Desktop/Screen* /Users/$HOME/Desktop/Captures
